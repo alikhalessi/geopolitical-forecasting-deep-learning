@@ -1,5 +1,3 @@
-# geopolitical-forecasting-deep-learning
-HPC-based deep learning pipeline for short-term geopolitical forecasting with GDELT.
 # Geopolitical Forecasting with Deep Learning
 
 An HPC-based deep learning forecasting pipeline for short-term geopolitical conflict intensity forecasting using GDELT data and CSC Puhti.
