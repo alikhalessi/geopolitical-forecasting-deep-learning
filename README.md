@@ -1,2 +1,2 @@
 # geopolitical-forecasting-deep-learning
-an HPC-based deep learning forecasting pipeline
+HPC-based deep learning pipeline for short-term geopolitical forecasting with GDELT.
