@@ -77,3 +77,44 @@ A fuller comparison summary is provided in the `results/` folder.
 ├── results/            # figures, tables, and representative outputs
 ├── slides/             # presentation materials
 └── src/                # reusable pipeline scripts
+```
+## How to Navigate This Repo
+
+- Start with **`docs/methodology.md`** for the project logic and workflow
+- Check **`slides/`** for the presentation version of the project
+- See **`results/`** for model comparison artifacts
+- Explore **`notebooks/`** for cleaned demonstration notebooks
+- Use **`src/`** for reusable code components
+
+## Reproducibility
+
+This repository is presented as a **portfolio and research-engineering demonstration**.
+
+The full experiment required HPC-scale storage and compute resources on CSC Puhti. For that reason:
+
+- large raw datasets are **not** stored in this repository
+- only lightweight samples and documentation are included
+- the repo focuses on pipeline structure, methodology, modeling logic, and representative outputs
+
+## Limitations
+
+- The target is a **proxy signal**, not direct ground-truth conflict intensity
+- GDELT reflects reported events and media structure, not pure battlefield reality
+- This is an **exploratory forecasting pipeline**, not a production or operational forecasting system
+
+## Project Status
+
+This repository is being cleaned and documented into a professional portfolio edition.
+
+Current focus:
+
+- documentation
+- reproducibility notes
+- representative outputs
+- polished notebooks and scripts
+
+## Author
+
+**Ali Khalessi**  
+MBA + Big Data Analytics specialization  
+Focused on applied machine learning, data engineering, and research-driven AI systems.
