@@ -23,3 +23,6 @@ The project presentation is available in the `slides/` folder.
 **Ali Khalessi**  
 MBA + Big Data Analytics specialization  
 Focused on applied machine learning, data engineering, and research-driven AI systems.
+git add README.md
+git commit -m "Add reproducibility, limitations, and author sections to README"
+git push origin main
