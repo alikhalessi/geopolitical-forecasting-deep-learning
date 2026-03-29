@@ -158,5 +158,7 @@ Focused on applied machine learning, data engineering, and research-driven AI sy
 └── docs/               # methodology and technical notes
 
 
-
+git add README.md
+git commit -m "Add reproducibility, limitations, and author sections to README"
+git push origin main
 
